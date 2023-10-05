@@ -1,14 +1,19 @@
 # Demo 1
- ## Info Proyek
- 05-10-2023
- - Nama Folder: projek-001
- - Framework
-    1 Node.js - JS
-    2 Tailwindcss - CSS
- ## Catatan
- - Untuk web bisa diperlihatkan tanpa node.js  
- - Untuk mendevelope web dengan optimal:
-    1 install node.js
-    2 jalankan `npm i` di terminal lokasi folder projek-001
-    3 jalankan `npm start` di terminal lokasi folder projek-001 untuk menjalankan develope web
-    4 untuk dokumentasi develope tailwindcss bisa dilihat di link berikut ### https://tailwindcss.com/docs/installation
+
+## Info Proyek
+
+- Tanggal: 05-10-2023
+- Nama Folder: projek-001
+- Framework:
+  1. Node.js - JS
+  2. Tailwindcss - CSS
+
+## Catatan
+
+- Untuk melihat web tanpa Node.js.
+- Untuk mengembangkan web secara optimal, ikuti langkah-langkah berikut:
+
+  1. Install Node.js.
+  2. Jalankan `npm i` di terminal di lokasi folder projek-001.
+  3. Jalankan `npm start` di terminal di lokasi folder projek-001 untuk memulai pengembangan web.
+  4. Untuk dokumentasi pengembangan Tailwind CSS, lihat di [https://tailwindcss.com/docs/installation](Tailwind Docs).
