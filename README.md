@@ -18,3 +18,6 @@
 > 2. Jalankan `npm i` di terminal di lokasi folder projek-001.
 > 3. Jalankan `npm start` di terminal di lokasi folder projek-001 untuk memulai pengembangan web.
 > 4. Untuk dokumentasi pengembangan Tailwind CSS, lihat di [Tailwind Docs](https://tailwindcss.com/docs/installation).
+
+# Demo 2
+- Pertama kali commit git pake ssh
